@@ -6,3 +6,6 @@ img{
     color: blue;
     background-color: white;
    }
+   .fot{
+       background-image: url('../../assets/images/f.jpg');
+   }
